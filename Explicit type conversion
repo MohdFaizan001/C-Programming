@@ -1,4 +1,4 @@
-// Implicit type conversion
+// Explicit type conversion
 #include <stdio.h>
 
 int main() {
